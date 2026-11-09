@@ -2,7 +2,7 @@
 
 > An integrated accessibility-focused application for converting between speech, text, images, and video content.
 
-Textify is a cross-platform application that brings multiple media-processing features together in a single interface. It supports **Speech-to-Text, Text-to-Speech, OCR, and YouTube caption generation**, making text and audio content easier to access and manage.
+Textify is a cross-platform application that brings multiple media-processing features together in a single interface. It supports **Speech-to-Text, Text-to-Speech, OCR, and YouTube caption generation**, making text and audio content easier to access and manage. 
 
 ## ✨ Features
 
